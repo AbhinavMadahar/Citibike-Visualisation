@@ -10,3 +10,6 @@ For convenience, here are some useful endpoints:
 
 - GET https://gbfs.citibikenyc.com/gbfs/en/station_information.json
 - GET https://gbfs.citibikenyc.com/gbfs/en/station_status.json
+
+To use the repo, you need a file called `.mapbox_token` containing a usable Mapbox token.
+We use Mapbox to visualise NYC on a map.
